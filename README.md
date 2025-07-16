@@ -13,5 +13,11 @@ This is a simple Windows Forms application developed in Visual Basic to calculat
 - Visual Studio
 - VB.NET
 
+## 📸 Screenshots:
+
+![Form Screenshot 1](IMG_20250422_113454_112.jpg)
+
+![Form Screenshot 2](IMG_20250422_113512_171.jpg)
+
 ## 🎯 Purpose:
 This was created as part of my self-learning journey in programming and data handling.
